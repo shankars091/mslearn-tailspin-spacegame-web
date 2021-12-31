@@ -1,3 +1,4 @@
+[![Build Status](https://shankars.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/shankars091.mslearn-tailspin-spacegame-web?branchName=main)](https://shankars.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
